@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cines-paraguay</string>
+    <string name="title_activity_main">cines-paraguay</string>
+    <string name="package_name">py.com.cinesparaguay</string>
+    <string name="custom_url_scheme">py.com.cinesparaguay</string>
+</resources>
